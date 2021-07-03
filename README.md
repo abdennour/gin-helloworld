@@ -9,7 +9,7 @@ Helloworld webapp based on the go framework Gin.
 # Getting Started
 
 - Download modules `go mod download`
-- Run the app `go run src/app.go`
+- Run the app `go run main.go`
 - Test it `curl http://localhost:8080/ping`
 
 # Authors
